@@ -45,6 +45,7 @@ h3{
 .profile1{
     display: flex;
    padding-left: 40px;
+   padding-right: 10px;
    margin-bottom: 80px;
    background-image: url(top-banner.png);
    background-repeat: no-repeat;
@@ -66,3 +67,14 @@ h3{
     padding: 10px 40px;
     border-radius: 7px;
 }
+/* profile-1 ends here */
+
+/* profile-2 starts here */
+
+.profile2{
+    display: flex;
+    padding-left: 40px;
+    padding-right: 10px;
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right 100%;
